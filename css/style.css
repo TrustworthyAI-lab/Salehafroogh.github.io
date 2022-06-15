@@ -6,6 +6,23 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+
+/* Ali Dm addition */
+
+* {
+  box-sizing: border-box;
+}
+
+.row_img {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column_img {
+  flex: 33.33%;
+  padding: 5px;
+}
+
 /* Basic */
 
 	body {
